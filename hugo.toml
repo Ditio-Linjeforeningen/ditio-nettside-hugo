@@ -10,7 +10,7 @@ url = "about"
 
 [[menu.main]]
 identifier = "events"
-name = "hva skjer?"
+name = "Hendelser:"
 url = "events"
 
 [caches]
