@@ -8,6 +8,10 @@ identifier = "about"
 name = "om foreningen"
 url = "about"
 
+[[menu.main]]
+identifier = "events"
+name = "hva skjer?"
+url = "events"
 
 [caches]
   [caches.images]

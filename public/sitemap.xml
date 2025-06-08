@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/d.it-i-o-hugo/events/</loc>
+    <lastmod>2025-06-08T13:56:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/d.it-i-o-hugo/events/example/</loc>
+    <lastmod>2025-06-08T13:56:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/d.it-i-o-hugo/</loc>
     <lastmod>2025-06-08T13:23:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/about/</loc>
+    <loc>http://localhost:1313/d.it-i-o-hugo/about/about/</loc>
     <lastmod>2025-06-08T13:13:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/d.it-i-o-hugo/about/</loc>
     <lastmod>2025-06-08T13:13:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/d.it-i-o-hugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/d.it-i-o-hugo/tags/</loc>
   </url>
 </urlset>

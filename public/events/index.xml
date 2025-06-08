@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on D.IT-I/O - Linjeforeningen ved insitutt IT</title>
+    <link>http://localhost:1313/d.it-i-o-hugo/events/</link>
+    <description>Recent content in Events on D.IT-I/O - Linjeforeningen ved insitutt IT</description>
+    <generator>Hugo</generator>
+    <language>no-nb</language>
+    <lastBuildDate>Sun, 08 Jun 2025 13:56:12 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/d.it-i-o-hugo/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>http://localhost:1313/d.it-i-o-hugo/events/example/</link>
+      <pubDate>Sun, 08 Jun 2025 13:56:12 +0200</pubDate>
+      <guid>http://localhost:1313/d.it-i-o-hugo/events/example/</guid>
+      <description>&lt;h1 id=&#34;example-event&#34;&gt;example event&lt;/h1&gt;&#xA;&lt;p&gt;Her kan vi skrive om events som skal skje, det er jo kult det!&#xA;Hva skal det være, hvem vet???&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
