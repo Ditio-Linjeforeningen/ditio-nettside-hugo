@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'no-nb'
+title = 'D.IT-I/O - Linjeforeningen ved insitutt IT'
+theme = 'risotto'
+
+[[menu.main]]
+identifier = "about"
+name = "om foreningen"
+url = "about"
