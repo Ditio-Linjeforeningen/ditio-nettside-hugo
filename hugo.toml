@@ -7,3 +7,8 @@ theme = 'risotto'
 identifier = "about"
 name = "om foreningen"
 url = "about"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
