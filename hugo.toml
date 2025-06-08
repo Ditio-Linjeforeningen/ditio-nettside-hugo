@@ -1,4 +1,4 @@
-baseURL = 'https://jpwiig.github.io/d.it-i-o-hugo/'
+baseURL = 'example.org'
 languageCode = 'no-nb'
 title = 'D.IT-I/O - Linjeforeningen ved insitutt IT'
 theme = 'risotto'
