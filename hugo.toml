@@ -1,4 +1,4 @@
-baseURL = 'example.org'
+baseURL = 'http://example.org'
 languageCode = 'no-nb'
 title = 'D.IT-I/O - Linjeforeningen ved insitutt IT'
 theme = 'risotto'
@@ -12,6 +12,13 @@ url = "about"
 identifier = "events"
 name = "Hendelser:"
 url = "events"
+
+
+[[menu.main]]
+identifier = "vedtekter"
+name = "Foreningens grunnlag"
+url = "vedtekter"
+
 
 [caches]
   [caches.images]

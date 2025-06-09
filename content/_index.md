@@ -11,3 +11,5 @@ Denne foreningen tilhører alle linjene som hører til under [insitutt for infor
 Ta en titt på [om foreningen](/about/about), så får du vite mer!
 
 Mer info kommer, ellerno!
+
+![ditio-temp-logo](img/ditio.png)
