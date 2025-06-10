@@ -1,3 +1,10 @@
+
+### For å endre på content
+Gå til [content mappen](content) og så den mappen som er for den.
+Der er hver artikkel/post en egen `.md` fil, som er en markdown fil.
+Se [example filen under hendelser](content/events/example.md) for noen eksempler på options i starten av posten.
+
+
 ### For å kjøre denne nettsiden lokal
 For nå så kan man ikke kjøre denne, da det er ikke noe domene som er tilgjenglig.  
 
@@ -13,5 +20,6 @@ hugo server
 ```
 
 noen spørsmål, det er bare å pinge meg på discord (wiigen), så skal jeg se om jeg kan hjelpe så fort jeg kan!
+(Alterernativt Mihle på Discord)
 
 for nå så bruker jeg MIT lisence, dette må kanskje endre seg

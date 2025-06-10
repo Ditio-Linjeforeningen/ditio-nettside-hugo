@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on D.IT-I/O - Linjeforeningen ved insitutt IT</title>
+    <title>About on D.IT-I/O - Linjeforeningen</title>
     <link>http://localhost:1313/about/</link>
-    <description>Recent content in Abouts on D.IT-I/O - Linjeforeningen ved insitutt IT</description>
+    <description>Recent content in About on D.IT-I/O - Linjeforeningen</description>
     <generator>Hugo</generator>
     <language>no-nb</language>
-    <lastBuildDate>Sun, 08 Jun 2025 13:13:42 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 18:34:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -14,6 +14,20 @@
       <pubDate>Sun, 08 Jun 2025 13:13:42 +0200</pubDate>
       <guid>http://localhost:1313/about/about/</guid>
       <description>&lt;h3 id=&#34;hva-er-dit-io&#34;&gt;Hva er D.IT-I/O&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Styret</title>
+      <link>http://localhost:1313/about/styret/</link>
+      <pubDate>Tue, 10 Jun 2025 14:53:00 +0200</pubDate>
+      <guid>http://localhost:1313/about/styret/</guid>
+      <description>&lt;h2 id=&#34;styret-består-av&#34;&gt;Styret består av&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leder:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navn&lt;/li&gt;&#xA;&lt;li&gt;Studie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Nestleder og økonomiansvarlig&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navn&lt;/li&gt;&#xA;&lt;li&gt;Studie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;IT- og driftsansvarlig&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navn&lt;/li&gt;&#xA;&lt;li&gt;Studie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Mediaansvarlig&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navn&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Styremedlem&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navn&lt;/li&gt;&#xA;&lt;li&gt;Studie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Styremedlem&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navn&lt;/li&gt;&#xA;&lt;li&gt;Studie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Vår historie</title>
+      <link>http://localhost:1313/about/historie/</link>
+      <pubDate>Tue, 10 Jun 2025 18:34:00 +0200</pubDate>
+      <guid>http://localhost:1313/about/historie/</guid>
+      <description>&lt;p&gt;Oppstartsmøte: 06.06.2025&lt;br&gt;&#xA;Registrert i Brønnøysundregistrene: xx.xx.2025&lt;br&gt;&#xA;Første Generalforsamling: xx.xx.2025&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
