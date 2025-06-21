@@ -6,14 +6,21 @@
     <description>Recent content in Index on D.IT-I/O - Linjeforeningen</description>
     <generator>Hugo</generator>
     <language>no-nb</language>
-    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hendelser</title>
-      <link>http://localhost:1313/events/</link>
+      <title>Arrangementer</title>
+      <link>http://localhost:1313/arrangementer/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/</guid>
-      <description>&lt;p&gt;Kommende hendelser&lt;/p&gt;</description>
+      <guid>http://localhost:1313/arrangementer/</guid>
+      <description>&lt;p&gt;Kommende arrangementer&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Om Foreningen</title>
+      <link>http://localhost:1313/om_oss/</link>
+      <pubDate>Tue, 10 Jun 2025 18:34:00 +0200</pubDate>
+      <guid>http://localhost:1313/om_oss/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

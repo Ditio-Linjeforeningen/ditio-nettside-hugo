@@ -1,0 +1,8 @@
+:root {
+    --page-width: 75em;
+}
+
+
+.remove-padding {
+    padding-left: 0;
+}
