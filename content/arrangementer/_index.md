@@ -6,4 +6,4 @@ description: "Arrangementer ved linjeforeningen"
 tags: [ "index" ]
 layout: list_les_mer
 ---
-Kommende arrangementer
+Kommende arrangementer:
