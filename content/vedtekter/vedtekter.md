@@ -4,7 +4,7 @@ date: 2025-06-06
 draft: false
 ---
 
-se alltid oppdatert versjon for vedtektene på vår [github](https://github.com/Ditio-Linjeforening/vedtekter), for forslag lag en pull request på githuben våres. send oss en epost hvis du ønsker å komme med anonymt forslag
+se alltid oppdatert versjon for vedtektene på vår [github](https://github.com/Ditio-Linjeforeningen/vedtekter), for forslag lag en pull request på githuben våres. send oss en epost hvis du ønsker å komme med anonymt forslag
 
 Innhold sist revidert [06.06.25]
 

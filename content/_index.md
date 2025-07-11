@@ -13,3 +13,4 @@ Ta en titt på [om foreningen](about/about), så får du vite mer!
 Mer info kommer!
 
 ![ditio-temp-logo](img/ditio.png)
+*Midlertidig AI generert logo, bør gjøre noe ordentlig på et tidspunkt. Sånn at man blant annet har SVG.
