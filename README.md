@@ -1,6 +1,6 @@
 
 ### For å endre på content
-Gå til [content mappen](content) og så den mappen som er for den.
+Gå til [content mappen](content) og så den mappen som er for den delen av nettsiden man skal legge til noe.
 Der er hver artikkel/post en egen `.md` fil, som er en markdown fil.\
 Se [example filen under hendelser](content/arrangementer/example.md) for noen eksempler på options i starten av posten.
 
@@ -19,8 +19,15 @@ cd d.it-i-o-hugo
 hugo server
 ```
 
-noen spørsmål, det er bare å pinge meg på discord (wiigen), så skal jeg se om jeg kan hjelpe så fort jeg kan!
-(Alterernativt Mihle på Discord)
+Hvis et tema ikke lastes inn lokalt slik det skal, kjør
+```bash
+git submodule update
+git submodule init
+```
+Og muligens restart IDE
+
+
+For noen spørsmål, det er bare å pinge på discord (wiigen eller Mihle), så skal jeg se om jeg kan hjelpe så fort jeg kan!
 
 for nå så bruker jeg MIT lisence, dette må kanskje endre seg
 
@@ -33,3 +40,6 @@ for nå så bruker jeg MIT lisence, dette må kanskje endre seg
 [Terminal](https://github.com/panr/hugo-theme-terminal?tab=readme-ov-file)\
 [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/)\
 [Hugoplate](https://themes.gohugo.io/themes/hugoplate/)
+
+Alternativt 11ty istedenfor HUGO.
+Mere custom nettside kan vurderes.
