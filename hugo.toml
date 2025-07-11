@@ -21,29 +21,7 @@ pluralizelisttitles = "false"
   name = "om oss/"
   url = "om_oss/"
 
+#  Ikke i bruk akkurat nå
   [[params.navlinks]]
   name = "bilder/"
   url = "photos/"
-
-
-
-# Sidebar: about/bio
-[params.about]
-title = "D.IT-I/O"
-description = "Linjeforeningen for insitutt IT ved OsloMet"
-# unicode/emoji logo:
-# logo = "🍚"
-# or use an image:
-#logo_image = "images/rice.svg"
-
-[[params.socialLinks]]
-icon = "fa-brands fa-github"
-title = "GitHub"
-url = "https://github.com/Ditio-Linjeforening/"
-
-[[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:ditio.kontakt@gmail.com"
-
-
