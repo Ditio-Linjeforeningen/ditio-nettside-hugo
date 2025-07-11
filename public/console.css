@@ -1,0 +1,12 @@
+@media (prefers-color-scheme: dark) {
+    :root {
+    --page-width: 1000px;
+}
+}
+
+:root {
+    --page-width: 1000px;
+}
+.container {
+    max-width: 1000px;
+}

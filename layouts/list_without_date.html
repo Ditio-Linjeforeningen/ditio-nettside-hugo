@@ -1,0 +1,22 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+<br/>
+{{ .Content }}
+
+<div class="posts-list remove-padding">
+{{ range sort .Data.Pages "Weight" "asc" }}
+    {{ if not .Params.private }}
+        <div class="post">
+            <p>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+            <p>
+                <a href="{{ .Permalink }}">Les mere</a>
+            </p>
+        </div>
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}

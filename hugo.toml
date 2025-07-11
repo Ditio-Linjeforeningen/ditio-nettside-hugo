@@ -1,48 +1,27 @@
 baseURL = 'http://example.org'
 languageCode = 'no-nb'
 title = 'D.IT-I/O - Linjeforeningen'
-theme = 'risotto'
+theme = 'console'
 
 pluralizelisttitles = "false"
 
-# Sidebar: about/bio
-[params.about]
-title = "D.IT-I/O"
-description = "Linjeforeningen for insitutt IT ved OsloMet"
-# unicode/emoji logo:
-# logo = "🍚"
-# or use an image:
-#logo_image = "images/rice.svg"
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
 
-[[params.socialLinks]]
-icon = "fa-brands fa-github"
-title = "GitHub"
-url = "https://github.com/Ditio-Linjeforening/"
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast"
 
-[[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:ditio.kontakt@gmail.com"
+  [[params.navlinks]]
+  name = "arrangementer/"
+  url = "arrangementer/"
 
-# Pages
-[menu]
+  [[params.navlinks]]
+  name = "om oss/"
+  url = "om_oss/"
 
-  [[menu.main]]
-  identifier = "about"
-  name = "om foreningen"
-  url = "about"
-
-  [[menu.main]]
-  identifier = "events"
-  name = "Hendelser"
-  url = "events"
-
-  [[menu.main]]
-  identifier = "vedtekter"
-  name = "Foreningens grunnlag"
-  url = "vedtekter"
-
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+#  Ikke i bruk akkurat nå
+  [[params.navlinks]]
+  name = "bilder/"
+  url = "photos/"
