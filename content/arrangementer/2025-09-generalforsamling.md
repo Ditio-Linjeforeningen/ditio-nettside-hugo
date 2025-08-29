@@ -1,0 +1,27 @@
+---
+title: "Generalforsamling 2025"
+author: "Styret"
+date: 2025-09-25T16:30:00+02:00
+publishDate: 2025-06-10
+expiryDate: 2025-10-15
+draft: false
+---
+Foreningens første generalforsamling!
+
+Lokasjon: Pilestredet 35 PH170 kl 16:30
+
+Møt opp og avgjør hvem du vil at skal være i styret det neste året.\
+Kanskje du vil stille som kanidat?
+
+<!--more-->
+
+Styremedlemmer som skal skal velges:
+- Leder
+- Nestleder og økonomiansvarlig
+- IT- og driftsansvarlig
+- Mediaansvarlig
+- Styremedlem
+- Styremedlem
+
+For mere info om rollene, se [vedtektene.]({{< ref "/om_oss/vedtekter" >}})
+

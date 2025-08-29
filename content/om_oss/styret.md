@@ -4,7 +4,7 @@ date: 2025-06-10T14:53:00+02:00
 draft: false
 weight: 2
 ---
- Liste over det nåværende styret til linjeforeningen
+ Liste over det nåværende styret til linjeforeningen.
 
 <!--more--> 
 
@@ -13,18 +13,18 @@ weight: 2
 - Leder:
   - Navn
   - Studie
-- Nestleder og økonomiansvarlig
+- Nestleder og økonomiansvarlig:
   - Navn
   - Studie
-- IT- og driftsansvarlig
+- IT- og driftsansvarlig:
   - Navn
   - Studie
-- Mediaansvarlig
+- Mediaansvarlig:
   - Navn
-- Styremedlem
+- Styremedlem:
   - Navn
   - Studie
-- Styremedlem
+- Styremedlem:
   - Navn
   - Studie
 
