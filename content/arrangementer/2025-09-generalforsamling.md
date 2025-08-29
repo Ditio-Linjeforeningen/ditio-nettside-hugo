@@ -1,5 +1,6 @@
 ---
 title: "Generalforsamling 2025"
+slug: "2025-generalfors"    #Shortening the URL
 author: "Styret"
 date: 2025-09-25T16:30:00+02:00
 publishDate: 2025-06-10

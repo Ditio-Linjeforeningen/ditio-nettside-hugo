@@ -33,28 +33,35 @@
         
         <url>
             <loc>http://localhost:1313/arrangementer/</loc>
-            <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+            <lastmod>2025-09-25T16:30:00+02:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/arrangementer/2025generalforsamling/</loc>
-            <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+            <loc>http://localhost:1313/arrangementer/2025-generalfors/</loc>
+            <lastmod>2025-09-25T16:30:00+02:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/tags/index/</loc>
-            <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+            <lastmod>2025-09-25T16:30:00+02:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/tags/</loc>
-            <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+            <lastmod>2025-09-25T16:30:00+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/arrangementer/2025-09-quiz/</loc>
+            <lastmod>2025-09-17T16:30:00+02:00</lastmod>
         </url>
         
     
