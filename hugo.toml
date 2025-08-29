@@ -1,13 +1,13 @@
 baseURL = 'http://example.org'
 languageCode = 'no-nb'
-title = 'D.IT-I/O - Linjeforeningen'
+title = 'D.IT-I/O'
 theme = 'console'
 
 pluralizelisttitles = "false"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = true
+  titleCutting = false
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter

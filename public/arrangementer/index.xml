@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arrangementer on D.IT-I/O - Linjeforeningen</title>
+    <title>Arrangementer on D.IT-I/O</title>
     <link>http://localhost:1313/arrangementer/</link>
-    <description>Recent content in Arrangementer on D.IT-I/O - Linjeforeningen</description>
+    <description>Recent content in Arrangementer on D.IT-I/O</description>
     <generator>Hugo</generator>
     <language>no-nb</language>
     <lastBuildDate>Thu, 25 Sep 2025 16:30:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/arrangementer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generalforsamling 2025</title>
-      <link>http://localhost:1313/arrangementer/2025-09-generalforsamling/</link>
+      <link>http://localhost:1313/arrangementer/2025-generalfors/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/arrangementer/2025-09-generalforsamling/</guid>
+      <guid>http://localhost:1313/arrangementer/2025-generalfors/</guid>
       <description>&lt;p&gt;Foreningens første generalforsamling!&lt;/p&gt;&#xA;&lt;p&gt;Lokasjon: Pilestredet 35 PH170 kl 16:30&lt;/p&gt;&#xA;&lt;p&gt;Møt opp og avgjør hvem du vil at skal være i styret det neste året.&lt;br&gt;&#xA;Kanskje du vil stille som kanidat?&lt;/p&gt;</description>
     </item>
     <item>
