@@ -7,7 +7,7 @@
 
 <div class="posts-list">
 {{ with .Site.GetPage "/arrangementer" }}
-    {{ range first 4 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+    {{ range first 4 (sort .Data.Pages "Date" "asc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
                 <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
