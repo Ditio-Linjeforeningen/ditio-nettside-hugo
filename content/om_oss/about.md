@@ -1,27 +1,29 @@
 ---
-title: "Om Foreningen"
-date: 2025-06-08T13:13:42+02:00
+title: "Om foreningen"
+date: 2025-09-07
 summary: Informasjon om Foreningen
 draft: false
 weight: 1
 ---
 
-### Hva er D.IT-I/O
+## Hva er D.IT-I/O
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+D.IT-I/O er linjeforeningen for studenter ved  linjene som hører til under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) ved OsloMet.\
+Ditio sitt formål å være en sosial og faglig forening for foreningens medlemmer, som er studentene ved institutt IT ved fakultet for TKD på OsloMet og andre interessenter.
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Vår først generalforsamlig var 25.09.2025.\
+Mere interesert i vår historie? [Les mere her](/om_oss/historie)
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+## Hvem kan være med i foreningen
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Alle som går linjene under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) på OsloMet og andre interessenter.
 
+## Hvordan blir man med?
 
-### Hvem kan være med i foreningen
+Alle som går linjene under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) på OsloMet er automatisk medlem.
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+## Lyst til å bidra?
+[Les mere her](/om_oss/bidra)
 
-### Hvordan blir man med?
-
-### spørsmål? 
-Ta kontakt på [sett inn epost her](mailto:[epost])
+### Spørsmål? 
+Ta kontakt på [sett inn epost her](mailto:[epost]) eller kontakt et [styremedlem!](/om_oss/styret)

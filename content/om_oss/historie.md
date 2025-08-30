@@ -11,4 +11,4 @@ Lær  mere om vår historie
 
 Oppstartsmøte: 06.06.2025\
 Registrert i Brønnøysundregistrene: xx.xx.2025\
-Første Generalforsamling: xx.xx.2025
+Første Generalforsamling: 25.09.2025

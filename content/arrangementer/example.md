@@ -2,6 +2,7 @@
 # Front Matter
 author: "Example Author"    # Author, can also be used for location for the event?
 title: "Example" 
+slug: "Example"             #Shortening the URL
 date: 2025-06-08T13:56:12+02:00
 description: "Example description"
 summary: "Example summary"  # Summary that is shown on the event page, overridden by "<!--more-->" in the post
