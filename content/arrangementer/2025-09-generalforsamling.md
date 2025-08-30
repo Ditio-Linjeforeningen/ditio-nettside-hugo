@@ -9,12 +9,14 @@ draft: false
 ---
 Foreningens første generalforsamling!
 
-Lokasjon: Pilestredet 35 PH170 kl 16:30
+Lokasjon: Kommer!
 
 Møt opp og avgjør hvem du vil at skal være i styret det neste året.\
 Kanskje du vil stille som kanidat?
 
 <!--more-->
+
+PÅMELDING: [Nettskjema link]
 
 Styremedlemmer som skal skal velges:
 - Leder
