@@ -4,7 +4,7 @@ slug: "2025-generalfors"    #Shortening the URL
 author: "Styret"
 date: 2025-09-25T16:30:00+02:00
 publishDate: 2025-06-10
-expiryDate: 2025-10-15
+#expiryDate: xxxx
 draft: false
 ---
 Foreningens første generalforsamling!

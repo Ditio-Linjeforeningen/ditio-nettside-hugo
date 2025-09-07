@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<h1>Kommende Arrangementer:</h1>
+<div class="posts-list">
+    {{ range sort .Data.Pages "Date" "asc" }}
+        {{ if not .Params.private }}
+            {{ if gt .Date time.Now }}
+                <div class="post">
+                    <p>
+                        <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
+                        <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                        {{ .Summary }}
+                    </p>
+                    <p>
+                        <a href="{{ .Permalink }}">Les mere</a>
+                    </p>
+                </div>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</div>
+<h1>Tidligere Arrangementer:</h1>
+<div class="posts-list">
+    {{ range sort .Data.Pages "Date" "desc" }}
+        {{ if not .Params.private }}
+            {{ if lt .Date time.Now }}
+                <div class="post">
+                    <p>
+                        <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
+                        <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                        {{ .Summary }}
+                    </p>
+                    <p>
+                        <a href="{{ .Permalink }}">Les mere</a>
+                    </p>
+                </div>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</div>
+
+{{ end }}
