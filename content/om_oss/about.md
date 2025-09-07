@@ -23,7 +23,7 @@ Alle som går linjene under [insitutt for informasjonsteknologi](https://www.osl
 Alle som går linjene under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) på OsloMet er automatisk medlem.
 
 ## Lyst til å bidra?
-[Les mere her](/om_oss/bidra)
+[Les mere her]({{< ref "/om_oss/bidra" >}})
 
 ### Spørsmål? 
 Ta kontakt på [sett inn epost her](mailto:[epost]) eller kontakt et [styremedlem!]({{< ref "/om_oss/styret" >}})
