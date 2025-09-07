@@ -4,6 +4,5 @@ title: "Arrangementer"      # first header on the page
 # author = "author"
 description: "Arrangementer ved linjeforeningen"
 tags: [ "index" ]
-layout: list_les_mer
+layout: list_events
 ---
-Kommende arrangementer:
