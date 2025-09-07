@@ -81,13 +81,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/arrangementer/test/</loc>
-            <lastmod>2025-08-25T16:30:00+02:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/</loc>
             <lastmod>2025-06-08T13:23:03+02:00</lastmod>
         </url>
