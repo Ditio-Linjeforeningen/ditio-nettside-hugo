@@ -26,4 +26,4 @@ Alle som går linjene under [insitutt for informasjonsteknologi](https://www.osl
 [Les mere her]({{< ref "/om_oss/bidra" >}})
 
 ### Spørsmål? 
-Ta kontakt på [sett inn epost her](mailto:[epost]) eller kontakt et [styremedlem!]({{< ref "/om_oss/styret" >}})
+Ta kontakt på [sett inn epost her](mailto:[epost]) eller kontakt et [styremedlem!]({{< ref "/om_oss/styret" >}}).
