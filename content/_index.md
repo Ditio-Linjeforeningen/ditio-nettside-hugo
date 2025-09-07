@@ -10,13 +10,13 @@ til nettsiden til de nyoppstartetde linjeforeningen D.IT-I/O ved OsloMet!\
 Denne foreningen tilhører alle linjene som hører til under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it).\
 Vil du vite mer, eller bli med?
 
-Ta en titt på [om foreningen](om_oss/about), så får du vite mer!
+Ta en titt på [om foreningen]({{< ref "/om_oss/about" >}}), så får du vite mer!
 
 Mer info kommer!
 
 Denne siden er midlertidig og WIP intill noen har ordnet noe bedre.\
 Vil du lage bidra til denne nettsiden eller lage en en ny nettside til linjeforeningen?\
-Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/d.it-io-nettside-hugo) 
+Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/ditio-nettside-hugo) 
 eller lag noe nytt, og flytt repoet linjeforeningens [github organiasjonen](https://github.com/Ditio-Linjeforeningen).\
 [Her er forslag til krav hvis du vil lage en ny nettside.](https://github.com/Ditio-Linjeforeningen/forslag-til-ny-nettside-krav)
 Lag gjerne PR hvis du har noe forslag til endringer der også.

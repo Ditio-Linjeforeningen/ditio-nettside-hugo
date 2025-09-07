@@ -11,18 +11,18 @@ Vil du bidra til foreningen?
 
 # Logo
 På nåværende tidspunkt har vi ikke en permanent logo.\
-Vil du lage en, eller har ideer til en logo/farger vi kan bruke, send epost til vår epostadresse eller kontakt et [styremedlem](/om_oss/styret).
+Vil du lage en, eller har ideer til en logo/farger vi kan bruke, send epost til vår epostadresse eller kontakt et [styremedlem]({{< ref "/om_oss/styret" >}}).
 
 # Nettside
 
 ### Innhold
 Forslag til endringer av informasjon på denne nettsiden?\
-Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/d.it-io-nettside-hugo) eller send oss epost/kontakt et [styremedlem](/om_oss/styret)!
+Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/d.it-io-nettside-hugo) eller send oss epost/kontakt et [styremedlem]({{< ref "/om_oss/styret" >}})!
 
 ### Selve nettsiden
 Denne siden er midlertidig og WIP intill noen har ordnet noe bedre.\
 Vil du lage bidra til denne nettsiden eller lage en en ny nettside til linjeforeningen?\
-Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/d.it-io-nettside-hugo) 
+Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/ditio-nettside-hugo) 
 eller lag noe nytt, og flytt repoet linjeforeningens [github organiasjonen](https://github.com/Ditio-Linjeforeningen).\
 [Her er forslag til krav hvis du vil lage en ny nettside.](https://github.com/Ditio-Linjeforeningen/forslag-til-ny-nettside-krav)
 Lag gjerne PR hvis du har noe forslag til endringer der også.
@@ -30,7 +30,7 @@ Lag gjerne PR hvis du har noe forslag til endringer der også.
 # Annet
 
 Forslag til events vi kan ha enten det er sosialt eller idè til foredrag eller annet?\
-Send oss epost eller kontakt et [styremedlem](/om_oss/styret)!
+Send oss epost eller kontakt et [styremedlem]({{< ref "/om_oss/styret" >}})!
 
 # Kontakt oss
 

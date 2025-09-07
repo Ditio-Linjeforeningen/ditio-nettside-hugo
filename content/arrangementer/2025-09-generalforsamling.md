@@ -16,7 +16,7 @@ Kanskje du vil stille som kanidat?
 
 <!--more-->
 
-PÅMELDING: [Nettskjema link]
+PÅMELDING: [Nettskjema link Coming Soon]
 
 Styremedlemmer som skal skal velges:
 - Leder
