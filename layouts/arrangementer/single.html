@@ -1,5 +1,5 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-<p>Dato: {{ .Date | time.Format ":date_medium" }}</p>
+<p>Dato: {{ .Date.Format "2 Jan 2006" }}</p>
 {{ .Content }}
 {{ end }}
