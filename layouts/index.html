@@ -11,7 +11,7 @@
         {{ if gt .Date time.Now }}
             <div class="post">
                 <p>
-                    <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
+                    <div class="date">{{ .Date.Format "2 Jan 2006" }}</div>
                     <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
                     {{ .Summary }}
                 </p>
