@@ -9,14 +9,15 @@ draft: false
 ---
 Foreningens første generalforsamling!
 
-Lokasjon: Kommer!
+Lokasjon: Kl. 16:30, [PH170 i P35](https://link.mazemap.com/BA7rC8cC)
 
 Møt opp og avgjør hvem du vil at skal være i styret det neste året.\
 Kanskje du vil stille som kanidat?
 
-<!--more-->
+PÅMELDING: [Klikk her for gratis påmelding (nettskjema)](https://nettskjema.no/a/544703)\
+(På grunn at det er pizza)
 
-PÅMELDING: [Nettskjema link Coming Soon]
+<!--more-->
 
 Styremedlemmer som skal skal velges:
 - Leder
