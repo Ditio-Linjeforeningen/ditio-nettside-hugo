@@ -34,4 +34,4 @@ Send oss epost eller kontakt et [styremedlem]({{< ref "/om_oss/styret" >}})!
 
 # Kontakt oss
 
-Ta kontakt på [sett inn epost her](mailto:[epost])!
+Ta kontakt på [ditio.kontakt@gmail.com](mailto:ditio.kontakt@gmail.com)!
