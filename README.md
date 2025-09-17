@@ -34,7 +34,8 @@ for nå så bruker jeg MIT lisence, dette må kanskje endre seg
 ### Annen info
 [Layoyts](layouts) mappen er custom layouts som overrides de i temaet.\
 [Static](static) mappen overrider temaets css eller legger til.\
-[Public](public) mappen er der siden genereres til, trenger vanligvis ikke røres men mapper som endrer navn osv kan bli liggende der.
+[Public](public) mappen er der siden genereres til, trenger vanligvis ikke røres men mapper som endrer navn osv kan bli liggende der.\
+Commite endringer til mapper under theme, eks "console" kan skape problemer. Sørg for du vet veien tilbake eller ikke gjør det.
 
 ### Andre Temaer som var considered:
 [Terminal](https://github.com/panr/hugo-theme-terminal?tab=readme-ov-file)\
