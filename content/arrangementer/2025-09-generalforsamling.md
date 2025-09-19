@@ -18,6 +18,7 @@ PÅMELDING: [Klikk her for gratis påmelding (nettskjema)](https://nettskjema.no
 (På grunn at det er pizza)
 
 <!--more-->
+Det er bestilt pizza til 100 pers.
 
 Styremedlemmer som skal skal velges:
 - Leder
@@ -28,4 +29,6 @@ Styremedlemmer som skal skal velges:
 - Styremedlem
 
 For mere info om rollene, se [vedtektene.]({{< ref "/om_oss/vedtekter" >}})
+
+
 
