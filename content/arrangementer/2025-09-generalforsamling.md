@@ -30,5 +30,5 @@ Styremedlemmer som skal skal velges:
 
 For mere info om rollene, se [vedtektene.]({{< ref "/om_oss/vedtekter" >}})
 
-
+Sakspapirer: [Klikk her for PDF](/files/2025-09-25Sakspapirer-og-protokoll-DITIO-Generalforsamling_.pdf)
 
