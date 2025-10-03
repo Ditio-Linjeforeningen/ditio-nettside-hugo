@@ -16,7 +16,7 @@ weight: 2
 - **Nestleder og økonomiansvarlig:**
   - Navn: Umeshgaar Bala
   - Studie: 3. år Matematisk modellering og datavitenskap
-  - Kontakt: [kontakt@ditio.org](mailto:kontakt@ditio.org)
+  - Kontakt: [nestleder@ditio.org](mailto:nestleder@ditio.org) eller [okonomi@ditio.org](mailto:okonomi@ditio.org)
 - **IT- og driftsansvarlig:**
   - Navn: Fabian Mihle Hansen
   - Studie: 3. år Dataingeniør
