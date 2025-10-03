@@ -8,11 +8,12 @@ draft: false
 
 til nettsiden til de nyoppstartetde linjeforeningen D.IT-I/O ved OsloMet!\
 Denne foreningen tilhører alle linjene som hører til under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it).\
-Vil du vite mer, eller bli med?
+Ditio sitt formål å være en sosial og faglig forening for studentene ved institutt IT på OsloMet og andre interessenter.
 
+Vil du vite mer?\
 Ta en titt på [om foreningen]({{< ref "/om_oss/about" >}}), så får du vite mer!
 
-Sjekk ut og følg [vår Instagram](https://www.instagram.com/d.itio/)!
+Sjekk ut og følg [vår Instagram](https://www.instagram.com/d.itio/) og [vår Linkedin](https://www.linkedin.com/company/ditio-linjeforening/)!
 
 Mer info kommer!
 
@@ -31,4 +32,4 @@ Har du et en ide og design som vi kan bli vår permanente logo? Ta kontakt på e
 # Kontakt info
 
 Er du en student med spørsmål eller forslag, til forengingen, eller en bedrift som har lyst å gjøre noe for foreningens medlemmer?\
-Ta kontakt på [ditio.kontakt@gmail.com](mailto:ditio.kontakt@gmail.com)!
+Ta kontakt på [kontakt@ditio.org](mailto:kontakt@ditio.org)!
