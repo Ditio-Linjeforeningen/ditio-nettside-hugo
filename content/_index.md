@@ -31,5 +31,9 @@ Har du et en ide og design som vi kan bli vår permanente logo? Ta kontakt på e
 
 # Kontakt info
 
-Er du en student med spørsmål eller forslag, til forengingen, eller en bedrift som har lyst å gjøre noe for foreningens medlemmer?\
-Ta kontakt på [kontakt@ditio.org](mailto:kontakt@ditio.org)!
+Er du en student med spørsmål eller forslag, til forengingen, eller en bedrift som har lyst å gjøre noe for foreningens medlemmer?
+
+Ta kontakt på:\
+Generelle hendvendelser: [kontakt@ditio.org](mailto:kontakt@ditio.org)\
+Bedrifter: [bedrift@ditio.org](mailto:bedrift@ditio.org)\
+Eller [kontakt et styremedlem!]({{< ref "/om_oss/styret" >}})
