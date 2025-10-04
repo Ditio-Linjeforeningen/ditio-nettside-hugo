@@ -7,6 +7,9 @@ publishDate: 2025-06-10
 #expiryDate: xxxx
 draft: false
 ---
+
+![Plakat med genralforsamling info](/img/events/2025-09-25-genforsamling.png)
+
 Foreningens første generalforsamling!
 
 Lokasjon: Kl. 16:30, [PH170 i P35](https://link.mazemap.com/BA7rC8cC)
