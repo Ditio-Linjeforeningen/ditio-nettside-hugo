@@ -29,11 +29,11 @@ Lag gjerne PR hvis du har noe forslag til endringer der også.
 *Midlertidig logo, bør lages noe ordentlig på et tidspunkt. Sånn at man blant annet har SVG.\
 Har du et en ide og design som vi kan bli vår permanente logo? Ta kontakt på eposten under eller styrets medlemmer!
 
-# Kontakt info
+# Kontakt oss
 
-Er du en student med spørsmål eller forslag, til forengingen, eller en bedrift som har lyst å gjøre noe for foreningens medlemmer?
+Har du spørsmål eller forslag til foreningen?\
+Ta kontakt for generelle henvendelser: [kontakt@ditio.org](mailto:kontakt@ditio.org)\
+Eller [kontakt et styremedlem]({{< ref "/om_oss/styret" >}})
 
-Ta kontakt på:\
-Generelle hendvendelser: [kontakt@ditio.org](mailto:kontakt@ditio.org)\
-Bedrifter: [bedrift@ditio.org](mailto:bedrift@ditio.org)\
-Eller [kontakt et styremedlem!]({{< ref "/om_oss/styret" >}})
+Er du en bedrift som har lyst til å gjøre noe for foreningens medlemmer?\
+Ta kontakt på: [bedrift@ditio.org](mailto:bedrift@ditio.org)

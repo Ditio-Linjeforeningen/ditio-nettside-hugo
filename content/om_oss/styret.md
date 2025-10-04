@@ -10,34 +10,34 @@ weight: 2
 
 ## Nåværende styret består av
 - **Leder:**
-  - Navn: Stian Haugen
-  - Studie: 3. år Dataingeniør
-  - Kontakt: [leder@ditio.org](mailto:leder@ditio.org)
+  - Stian Haugen
+  -  3\. år Dataingeniør
+  - Epost: [leder@ditio.org](mailto:leder@ditio.org)
 - **Nestleder og økonomiansvarlig:**
-  - Navn: Umeshgaar Bala
-  - Studie: 3. år Matematisk modellering og datavitenskap
-  - Kontakt: [nestleder@ditio.org](mailto:nestleder@ditio.org) eller [okonomi@ditio.org](mailto:okonomi@ditio.org)
+  - Umeshgaar Bala
+  - 3\. år Matematisk modellering og datavitenskap
+  - Epost: [nestleder@ditio.org](mailto:nestleder@ditio.org) eller [okonomi@ditio.org](mailto:okonomi@ditio.org)
 - **IT- og driftsansvarlig:**
-  - Navn: Fabian Mihle Hansen
-  - Studie: 3. år Dataingeniør
-  - Kontakt: [it@ditio.org](mailto:it@ditio.org)
+  - Fabian Mihle Hansen
+  - 3\. år Dataingeniør
+  - Epost: [it@ditio.org](mailto:it@ditio.org)
 - **Arrangementansvarlig:**
-  - Navn: Jonas Hazeland Baugerud
-  - Studie: 2. år Dataingeniør
-  - Kontakt: [event@ditio.org](mailto:event@ditio.org) eller [bedrift@ditio.org](mailto:bedrift@ditio.org)
+  - Jonas Hazeland Baugerud
+  - 2\. år Dataingeniør
+  - Epost: [event@ditio.org](mailto:event@ditio.org) eller [bedrift@ditio.org](mailto:bedrift@ditio.org)
 - **Mediaansvarlig:**
-  - Navn: Elim Misgun Ghessesew
-  - Studie: 2. år Dataingeniør
-  - Kontakt: [pr@ditio.org](mailto:pr@ditio.org)
+  - Elim Misgun Ghessesew
+  - 2\. år Dataingeniør
+  - Epost: [pr@ditio.org](mailto:pr@ditio.org)
 - **Styremedlem:**
-  - Navn: Emma Agnethe Rasch Eldby
-  - Studie: 3. år Anvendt datateknologi
+  - Emma Agnethe Rasch Eldby
+  - 3\. år Anvendt datateknologi
 - **Styremedlem:**
-  - Navn: Philip Lo
-  - Studie: 1. år Anvendt datateknologi
+  - Philip Lo
+  - 1\. år Anvendt datateknologi
 - **Styremedlem:**
-  - Navn: Per Erik Gronvik
-  - Studie: 3. år Matematisk modellering og datavitenskap
+  - Per Erik Gronvik
+  - 3\. år Matematisk modellering og datavitenskap
 
 Kontakt alle: [styret@ditio.org](mailto:styret@ditio.org)
 
