@@ -8,7 +8,7 @@ weight: 4
 
 se alltid oppdatert versjon for vedtektene på vår [github](https://github.com/Ditio-Linjeforeningen/vedtekter), for forslag lag en pull request på githuben våres. send oss en epost hvis du ønsker å komme med anonymt forslag
 
-Innhold sist revidert [06.06.25]
+Innhold sist revidert [25.09.25]
 
 ## §1 Foreningens navn
 Foreningens navn er Ditio - linjeforening, videre kalt Ditio.
@@ -117,6 +117,8 @@ Foreningens styre består av følgende roller:
   - Ansvarlig for markedsføring av Ditio på sosiale medier slik som egen
     hjemmeside, Instagram, Facebook og SiO sine sider. Samt ansvar for
     fysisk markedsføring av arrangementer på skolen.
+- Styremedlem
+  - Bistå med diverse oppgaver de får ansvar for under styremøter.
 - Styremedlem
   - Bistå med diverse oppgaver de får ansvar for under styremøter.
 - Styremedlem
