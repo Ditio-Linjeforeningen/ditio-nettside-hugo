@@ -89,7 +89,7 @@ Dersom et verv ikke blir fylt under generalforsamlingen kan styret be om fullmak
 vervene.
 
 ## §8 Styret
-Ditio består av et styre på 7 personer. 80% av styret må være semesterregistrerte
+Ditio består av et styre på 8 personer. 80% av styret må være semesterregistrerte
 studenter ved et av SiO sine studiesteder. Minimum 50% av styrets medlemmer må
 være semesterregistrert ved OsloMet. Alle styreverv i Ditio er ulønnet.
 
