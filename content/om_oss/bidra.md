@@ -2,7 +2,7 @@
 title: "Bidra til foreningen"
 date: 2025-09-07
 draft: false
-weight: 5
+weight: 6
 ---
 
 Vil du bidra til foreningen?

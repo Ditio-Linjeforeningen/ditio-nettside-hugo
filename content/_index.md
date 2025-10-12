@@ -24,10 +24,8 @@ eller lag noe nytt, og flytt repoet linjeforeningens [github organiasjonen](http
 [Her er forslag til krav hvis du vil lage en ny nettside.](https://github.com/Ditio-Linjeforeningen/forslag-til-ny-nettside-krav)
 Lag gjerne PR hvis du har noe forslag til endringer der også.
 
-
-![ditio-temp-logo](img/Logo_Rectangle.png)
-*Midlertidig logo, bør lages noe ordentlig på et tidspunkt. Sånn at man blant annet har SVG.\
-Har du et en ide og design som vi kan bli vår permanente logo? Ta kontakt på eposten under eller styrets medlemmer!
+Vi har fått Logo!
+![ditio-temp-logo](img/logo-rectangle.png)
 
 # Kontakt oss
 

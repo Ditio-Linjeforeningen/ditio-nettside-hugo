@@ -2,7 +2,7 @@
 title: "Vår historie"
 date: 2025-06-10T18:34:00+02:00
 draft: false
-weight: 3
+weight: 4
 ---
 
 Lær  mere om vår historie

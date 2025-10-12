@@ -6,7 +6,7 @@
     <description>Recent content on D.IT-I/O</description>
     <generator>Hugo</generator>
     <language>no-nb</language>
-    <lastBuildDate>Thu, 25 Sep 2025 16:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Om foreningen</title>
@@ -21,6 +21,13 @@
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/om_oss/styret/</guid>
       <description>&lt;p&gt;Liste over det nåværende styret til linjeforeningen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Komiteer</title>
+      <link>http://localhost:1313/om_oss/komiteer/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/om_oss/komiteer/</guid>
+      <description>&lt;p&gt;Vi har flere kommiteer som medlemmer kan være med i å bidra styret og andre medlemmene.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vår historie</title>
