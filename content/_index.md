@@ -15,7 +15,8 @@ Ta en titt på [om foreningen]({{< ref "/om_oss/about" >}}), så får du vite me
 
 Sjekk ut og følg [vår Instagram](https://www.instagram.com/d.itio/) og [vår Linkedin](https://www.linkedin.com/company/ditio-linjeforening/)!
 
-Mer info kommer!
+Vi har flere komiteer som trenger medlemmer!\
+Les mere på [siden for komiteer]({{< ref "/om_oss/komiteer" >}}).
 
 Denne siden er midlertidig og WIP intill noen har ordnet noe bedre.\
 Vil du lage bidra til denne nettsiden eller lage en en ny nettside til linjeforeningen?\

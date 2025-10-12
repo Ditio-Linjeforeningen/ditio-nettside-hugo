@@ -9,9 +9,9 @@ Vil du bidra til foreningen?
 
 <!--more-->
 
-# Logo
-På nåværende tidspunkt har vi ikke en permanent logo.\
-Vil du lage en, eller har ideer til en logo/farger vi kan bruke, send epost til vår epostadresse eller kontakt et [styremedlem]({{< ref "/om_oss/styret" >}}).
+# Bli med i en komitè
+Vi har flere komiteer som er med å bidra å drifte foreningen, hjelpe til på events eller bidra våres medlemmer.\
+Les mere på [siden for komiteer]({{< ref "/om_oss/komiteer" >}}).
 
 # Nettside
 
