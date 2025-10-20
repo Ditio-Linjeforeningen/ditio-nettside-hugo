@@ -6,7 +6,7 @@ draft: false
 
 # Hallo og velkommen
 
-til nettsiden til de nyoppstartetde linjeforeningen D.IT-I/O ved OsloMet!\
+til nettsiden til de nyoppstartetde linjeforeningen Ditio ved OsloMet!\
 Denne foreningen tilhører alle linjene som hører til under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it).\
 Ditio sitt formål å være en sosial og faglig forening for studentene ved institutt IT på OsloMet og andre interessenter.
 

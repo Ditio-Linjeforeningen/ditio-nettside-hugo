@@ -1,6 +1,6 @@
-baseURL = 'http://example.org'
+baseURL = 'https://ditio.org'
 languageCode = 'no-nb'
-title = 'D.IT-I/O'
+title = 'Ditio'
 theme = 'console'
 
 pluralizelisttitles = "false"

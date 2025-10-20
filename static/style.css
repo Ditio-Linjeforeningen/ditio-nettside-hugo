@@ -6,3 +6,16 @@
 .remove-padding {
     padding-left: 0;
 }
+
+footer > p {
+    padding: 0.2em;
+    margin: 0;
+}
+
+footer > div{
+    margin-bottom: 1em;
+}
+
+.org-name {
+    font-weight: bold;
+}

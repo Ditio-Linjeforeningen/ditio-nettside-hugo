@@ -27,3 +27,9 @@ Alle som går linjene under [insitutt for informasjonsteknologi](https://www.osl
 
 ### Spørsmål? 
 Ta kontakt på [kontakt@ditio.org](mailto:kontakt@ditio.org) eller kontakt et [styremedlem!]({{< ref "/om_oss/styret" >}}).
+
+-----
+**Ditio-Linjeforening**\
+E-post: [kontakt@ditio.org](mailto:kontakt@ditio.org)\
+Adresse: Pilestredet 35, 0166 Oslo\
+Org. nr.: 936 009 395
