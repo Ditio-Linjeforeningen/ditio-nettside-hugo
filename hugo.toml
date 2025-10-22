@@ -22,6 +22,6 @@ pluralizelisttitles = "false"
   url = "om_oss/"
 
 #  Ikke i bruk akkurat nå
-  [[params.navlinks]]
-  name = "bilder/"
-  url = "photos/"
+#  [[params.navlinks]]
+#  name = "bilder/"
+#  url = "photos/"
