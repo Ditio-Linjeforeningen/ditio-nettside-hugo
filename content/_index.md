@@ -4,11 +4,15 @@ date: 2025-06-08T13:23:03+02:00
 draft: false
 ---
 
-# Hallo og velkommen
+# Ditio Linjeforening 
 
-til nettsiden til de nyoppstartetde linjeforeningen Ditio ved OsloMet!\
-Denne foreningen tilhører alle linjene som hører til under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it).\
+Linjeforeningen for alle linjene som hører til under [insitutt for informasjonsteknologi på OsloMet](https://www.oslomet.no/om/tkd/it).\
 Ditio sitt formål å være en sosial og faglig forening for studentene ved institutt IT på OsloMet og andre interessenter.
+
+Vi jobber blant anent med å organisere sosiale og faglige events for våre medlemmer å forbedre studentmiljøet for våre medlemmer.
+
+Vi har fått Logo!
+![ditio-temp-logo](img/logo-rectangle.png)
 
 Vil du vite mer?\
 Ta en titt på [om foreningen]({{< ref "/om_oss/about" >}}), så får du vite mer!
@@ -18,15 +22,12 @@ Sjekk ut og følg [vår Instagram](https://www.instagram.com/d.itio/) og [vår L
 Vi har flere komiteer som trenger medlemmer!\
 Les mere på [siden for komiteer]({{< ref "/om_oss/komiteer" >}}).
 
-Denne siden er midlertidig og WIP intill noen har ordnet noe bedre.\
+
 Vil du lage bidra til denne nettsiden eller lage en en ny nettside til linjeforeningen?\
 Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/ditio-nettside-hugo) 
 eller lag noe nytt, og flytt repoet linjeforeningens [github organiasjonen](https://github.com/Ditio-Linjeforeningen).\
 [Her er forslag til krav hvis du vil lage en ny nettside.](https://github.com/Ditio-Linjeforeningen/forslag-til-ny-nettside-krav)
 Lag gjerne PR hvis du har noe forslag til endringer der også.
-
-Vi har fått Logo!
-![ditio-temp-logo](img/logo-rectangle.png)
 
 # Kontakt oss
 

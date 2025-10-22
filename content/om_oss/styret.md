@@ -54,7 +54,7 @@ Valgt inn [25.09.2025]
 ## Midlertidig oppstartsgruppe
 Før første grenralforsmaling [25.09.2025]
 
-- Midertidig leder/nestleder: Benedicte Emly Solberg Johanse
+- Midertidig leder/nestleder: Benedicte Emly Solberg Johansen
 - Midertidig Nestleder: Jon Petter Wiig
 - Midertidig arrangmentansvarig: Jonas Hazeland Baugerud
 - Midertidig støtteansvarlig: Elim Misgun Ghessesew

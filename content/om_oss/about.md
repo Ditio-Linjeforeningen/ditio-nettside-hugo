@@ -6,10 +6,12 @@ draft: false
 weight: 1
 ---
 
-## Hva er D.IT-I/O
+## Hva er Ditio
 
-D.IT-I/O er linjeforeningen for studenter ved  linjene som hører til under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) ved OsloMet.\
+Ditio er linjeforeningen for studenter ved  linjene som hører til under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) ved OsloMet.\
 Ditio sitt formål å være en sosial og faglig forening for foreningens medlemmer, som er studentene ved institutt IT ved fakultet for TKD på OsloMet og andre interessenter.
+
+Vi jobber blant anent med å organisere sosiale og faglige events for våre medlemmer å forbedre studentmiljøet for våre medlemmer.
 
 Vår først generalforsamlig var 25.09.2025.\
 Mere interesert i vår historie? [Les mere her]({{< ref "/om_oss/historie" >}})
