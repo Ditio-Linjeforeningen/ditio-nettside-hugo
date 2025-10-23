@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Ditio Linjeforening"
 date: 2025-06-08T13:23:03+02:00
 draft: false
 ---
@@ -7,7 +7,7 @@ draft: false
 # Ditio Linjeforening 
 
 Linjeforeningen for alle linjene som hører til under [insitutt for informasjonsteknologi på OsloMet](https://www.oslomet.no/om/tkd/it).\
-Ditio sitt formål å være en sosial og faglig forening for studentene ved institutt IT på OsloMet og andre interessenter.
+Ditio sitt formål å være en sosial og faglig forening for foreningen medlemmer og andre interessenter.
 
 Vi jobber blant anent med å organisere sosiale og faglige events for våre medlemmer å forbedre studentmiljøet for våre medlemmer.
 

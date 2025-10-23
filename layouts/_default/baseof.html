@@ -3,8 +3,24 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ .Site.Title }}{{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}</title>
-    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+{{/*    <title>{{ .Site.Title }}{{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}</title>*/}}
+
+    <title>
+     {{- if .IsHome -}}
+       {{ .Site.Title }}
+     {{- else if .Page.Title -}}
+       {{ .Page.Title }} | {{ .Site.Title }}
+     {{- else -}}
+       {{ .Site.Title }}
+     {{- end -}}
+    </title>
+
+    {{- if .IsHome -}}
+        <meta name="description" content="{{ site.Params.Description }}" />
+    {{- else -}}
+        <meta name="description" content="{{ .Params.Description }}" />
+    {{- end }}
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
     <meta name="googlebot" content="index,follow,snippet,archive">
@@ -18,7 +34,6 @@
       <![endif]-->
     ` | safeHTML }}
 
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     {{ with .OutputFormats.Get "RSS" }}
       {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
     {{ end }}

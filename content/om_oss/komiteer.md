@@ -1,5 +1,8 @@
 ---
 title: "Komiteer"
+description: "Ditio linjeforening har flere komiteer som studenter kan være med i å bidra. 
+Lær mere om de forskjellige komiteeene og bli med å bidra! 
+Bidrag til foreningen er også bidrag til studentmiløet. "  # I header på html/for søkemotorer osv
 date: 2025-10-12
 draft: false
 weight: 3

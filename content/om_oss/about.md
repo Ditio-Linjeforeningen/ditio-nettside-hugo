@@ -1,5 +1,6 @@
 ---
 title: "Om foreningen"
+description: "Informasjon om Ditio Linjeforening ved institutt IT på OsloMet"  # In  header in html, for search engines etc.
 date: 2025-09-07
 summary: Informasjon om Foreningen
 draft: false

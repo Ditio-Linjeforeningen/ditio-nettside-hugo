@@ -1,5 +1,6 @@
 ---
 title: "Vår historie"
+description: "Infomrmasjon om historien til Linjeforeningen Ditio ved ved institutt IT på OsloMet."  # In  header in html, for search engines etc
 date: 2025-06-10T18:34:00+02:00
 draft: false
 weight: 4

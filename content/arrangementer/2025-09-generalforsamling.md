@@ -1,5 +1,7 @@
 ---
 title: "Generalforsamling 2025"
+description: "Foreningens første Generalforsamling. 
+Møt opp og avgjør hvem du vil at skal være i styret det neste året."  # In  header in html, for search engines etc.
 slug: "2025-generalfors"    #Shortening the URL
 author: "Styret"
 date: 2025-09-25T16:30:00+02:00
@@ -26,6 +28,7 @@ Det er bestilt pizza til 100 pers.
 Styremedlemmer som skal skal velges:
 - Leder
 - Nestleder og økonomiansvarlig
+- Arrangementansvarlig
 - IT- og driftsansvarlig
 - Mediaansvarlig
 - Styremedlem
