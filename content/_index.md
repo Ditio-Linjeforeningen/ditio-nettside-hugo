@@ -1,4 +1,5 @@
 ---
+locale: "nb-NO" # In  header in html, for search engines etc
 title: "Ditio Linjeforening"
 description: "Linjeforeningen for alle linjene som hører til under insitutt for informasjonsteknologi på OsloMet og andre interessenter. Ditio sitt formål å være en sosial og faglig forening for foreningens medlemmer."
 date: 2025-06-08T13:23:03+02:00

@@ -1,5 +1,6 @@
 ---
 # Front Matter
+locale: "nb-NO"              # In  header in html, for search engines etc
 author: "Example Author"     # Author, can also be used for location for the event?
 title: "Example" 
 description: "Example desc." # In  header in html, for search engines etc.

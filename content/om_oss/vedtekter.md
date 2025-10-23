@@ -1,4 +1,5 @@
 ---
+locale: "nb-NO" # In  header in html, for search engines etc
 title: "Vedtekter for Ditio - Linjeforeningen"
 description: "Vedtektene til Linjeforeningen Ditio ved institutt IT på OsloMet"  # In  header in html, for search engines etc
 date: 2025-06-06

@@ -1,4 +1,5 @@
 ---
+locale: "nb-NO" # In  header in html, for search engines etc
 title: "Bidra til foreningen"
 description: "Vær med å bidra til Ditio linjeforening ved institutt IT på OsloMet. 
 Kom med forslag eller bli med i en komite."  # In  header in html, for search engines etc.

@@ -1,4 +1,5 @@
 ---
+locale: "nb-NO" # In  header in html, for search engines etc
 title: "Komiteer"
 description: "Ditio linjeforening har flere komiteer som studenter kan være med i å bidra. 
 Lær mere om de forskjellige komiteeene og bli med å bidra! 

@@ -1,4 +1,5 @@
 ---
+locale: "nb-NO" # In  header in html, for search engines etc
 title: "Styret"
 description: "Liste over nåværende og tidligere styremedlemmer for Linjeforeningen Ditio ved institutt IT på OsloMet"  # In  header in html, for search engines etc
 date: 2025-08-30

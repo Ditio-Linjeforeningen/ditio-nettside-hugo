@@ -1,4 +1,5 @@
 ---
+locale: "nb-NO" # In  header in html, for search engines etc
 title: "Generalforsamling 2025"
 description: "Foreningens første Generalforsamling. 
 Møt opp og avgjør hvem du vil at skal være i styret det neste året."  # In  header in html, for search engines etc.
