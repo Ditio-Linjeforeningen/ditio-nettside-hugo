@@ -1,5 +1,6 @@
 ---
 title: "Ditio Linjeforening"
+description: "Linjeforeningen for alle linjene som hører til under insitutt for informasjonsteknologi på OsloMet og andre interessenter. Ditio sitt formål å være en sosial og faglig forening for foreningens medlemmer."
 date: 2025-06-08T13:23:03+02:00
 draft: false
 ---
@@ -12,7 +13,9 @@ Ditio sitt formål å være en sosial og faglig forening for foreningen medlemme
 Vi jobber blant anent med å organisere sosiale og faglige events for våre medlemmer å forbedre studentmiljøet for våre medlemmer.
 
 Vi har fått Logo!
-![ditio-temp-logo](img/logo-rectangle.png)
+![ditio-temp-logo](img/logo-rectangle-wide.png)
+
+
 
 Vil du vite mer?\
 Ta en titt på [om foreningen]({{< ref "/om_oss/about" >}}), så får du vite mer!

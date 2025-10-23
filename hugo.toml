@@ -8,7 +8,9 @@ pluralizelisttitles = "false"
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
+  title = "Ditio - Linjeforeningen"
   description = 'Linjeforeningen for alle linjene som hører til under insitutt for informasjonsteknologi på OsloMet og andre interessenter. Ditio sitt formål å være en sosial og faglig forening for foreningens medlemmer.'
+  image = "/img/logo-rectangle-wide.png"
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
