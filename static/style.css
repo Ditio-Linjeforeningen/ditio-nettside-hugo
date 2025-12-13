@@ -9,10 +9,21 @@
     }
 }
 
+@media only screen and (max-width: 850px) {
+    .posts-list .date {
+        display: inline-block;
+        position: relative;
+        z-index: auto;
+        padding-bottom: 0.8em;
+
+    }
+}
 
 .remove-padding {
     padding-left: 0;
 }
+
+
 
 footer > p {
     padding: 0.2em;
