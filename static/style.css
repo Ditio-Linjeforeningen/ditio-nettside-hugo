@@ -14,7 +14,8 @@
         display: inline-block;
         position: relative;
         z-index: auto;
-        padding-bottom: 0.8em;
+        padding-bottom: 0;
+        margin-bottom: 0;
 
     }
 }
