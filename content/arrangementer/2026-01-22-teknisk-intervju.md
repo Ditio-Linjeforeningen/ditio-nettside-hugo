@@ -17,7 +17,7 @@ Lokasjon: kl 17, Rom: TBD!
 
 Mere Informasjon kommer
 
-Påmelding:\
+**Påmelding:**\
 LINK KOMMER\
 Påmelding for at vi skal ha noe ide om hvor mange som kommer
 <!--more-->
