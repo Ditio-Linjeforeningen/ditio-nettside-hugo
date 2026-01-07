@@ -17,8 +17,8 @@ Tid: kl 17, Rom: PH170!
 
 Det blir mat.\
 **Påmelding:**\
-LINK KOMMER\
-Påmelding for at vi skal ha noe ide om hvor mange som kommer
+[Klikk her for gratis påmelding (nettskjema)](https://nettskjema.no/a/581831)\
+Påmelding for at vi skal ha noe ide om hvor mye mat som må ordnes.
 
 <!--more-->
 ## Info om foredraget
