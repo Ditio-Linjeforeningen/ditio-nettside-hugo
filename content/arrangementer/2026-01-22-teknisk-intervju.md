@@ -1,7 +1,7 @@
 ---
 locale: "nb-NO" # In  header in html, for search engines etc
-title: "Foredrag: Tips til Teknisk Intervju"
-description: "Tips til Teknisk Intervju med Derviş Mansuroğlu fra JavaBin/NAV."  # In  header in html, for search engines etc.
+title: "Foredrag: Tekniske intervjuer - hvordan lykkes med kodeoppgaver og høyere kodekvalitet"
+description: "Tekniske intervjuer - hvordan lykkes med kodeoppgaver og høyere kodekvalitet med Derviş Mansuroğlu fra JavaBin/NAV."  # In  header in html, for search engines etc.
 author: "Styret"
 date: 2026-01-22T17:00:00+02:00
 publishDate: 2025-12-01
