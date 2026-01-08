@@ -9,11 +9,11 @@ publishDate: 2025-12-01
 draft: false
 ---
 
-![Javabin logo](/img/events/2026-01-22-javabin.jpg)
+![Javabin logo](/img/events/2026-01-22-teknisk-intervju.png)
 
-Foredrag om Teknisk intervju med Derviş Mansuroğlu fra JavaBin/NAV.
+Foredrag om Teknisk intervju med Derviş Mansuroğlu fra JavaBin/NAV!
 
-Tid: kl 17, Rom: PH170!
+Tid: kl 17, Rom: PH170, P35
 
 Det blir mat.\
 **Påmelding:**\
