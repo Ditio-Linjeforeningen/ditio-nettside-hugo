@@ -44,3 +44,6 @@ de som lykkes fra de som får avslag.
 Foredraget er laget for studenter og nyutdannede, men også erfarne utviklere kan ta med seg viktig innsikt 
 om hva industrien vektlegger av kunnskaper i tekniske intervjuer.
 
+### Slides fra foredraget:
+[https://slides.com/dervism/kodekvalitet-i-kodeoppgaver-oslomet/fullscreen?token=gDgUCyNg](https://slides.com/dervism/kodekvalitet-i-kodeoppgaver-oslomet/fullscreen?token=gDgUCyNg)
+

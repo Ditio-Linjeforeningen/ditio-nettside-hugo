@@ -21,7 +21,8 @@ Vi har fått Logo!
 Vil du vite mer?\
 Ta en titt på [om foreningen]({{< ref "/om_oss/about" >}}), så får du vite mer!
 
-Sjekk ut og følg [vår Instagram](https://www.instagram.com/d.itio/) og [vår Linkedin](https://www.linkedin.com/company/ditio-linjeforening/)!
+Sjekk ut og følg [vår Instagram](https://www.instagram.com/d.itio/) og [vår Linkedin](https://www.linkedin.com/company/ditio-linjeforening/)!\
+Vi har også [en Discord!](https://discord.ditio.org)
 
 Vi har flere komiteer som trenger medlemmer!\
 Les mere på [siden for komiteer]({{< ref "/om_oss/komiteer" >}}).
