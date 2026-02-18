@@ -7,21 +7,19 @@
 
 <div class="posts-list">
 {{ with .Site.GetPage "/arrangementer" }}
-    {{ range sort .Data.Pages "Date" "asc" | last 3 }}
-        {{ if not .Params.private }}
-            {{ if gt .Date time.Now }}
-                <div class="post">
-                    <p>
-                        <div class="date">{{ .Date.Format "2 Jan 2006" }}</div>
-                        <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
-                        {{ .Summary }}
-                    </p>
-                    <p>
-                        <a href="{{ .Permalink }}">Les mere</a>
-                    </p>
-                </div>
-            {{ end }}
-        {{ end }}
+    {{ $events := where .Data.Pages "Params.private" "ne" true }}
+    {{ $future := where $events "Date" "gt" time.Now }}
+    {{ range sort $future "Date" "asc" | first 3 }}
+        <div class="post">
+            <p>
+                <div class="date">{{ .Date.Format "2 Jan 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+            <p>
+                <a href="{{ .Permalink }}">Les mere</a>
+            </p>
+        </div>
     {{ end }}
 {{ end }}
 </div>
