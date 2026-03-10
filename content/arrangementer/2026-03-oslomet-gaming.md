@@ -11,21 +11,31 @@ draft: false
 
 ![Plakat med Game night info](/img/events/2026-03-omg.png)
 
-Klar for en kveld med gaming, snacks og god stemming?
+Klar for en kveld med brettspill, videospill og god stemning?
 
-DITIO og OsloMet Gaming inviterer til Game Night 20. mars, for en sosial kveld fylt med masse spill, god mat og hyggelig selskap!
+DITIO og OsloMet Gaming inviterer til Game Night 20. mars, for en sosial kveld fylt med spill, god mat og hyggelig selskap!
+
+Kvelden byr på et stort utvalg av:\
+🎲 Brettspill\
+🎮 Videospill\
+🥽 VR\
+🍕 Pizza, snacks og masse drikke
+
 <!--more-->
-Vi setter frem et stort utvalg av brettspill, videospill og VR som alle kan prøve. 
-Enten du er en erfaren gamer eller bare vil teste noe nytt, er dette en perfekt anledning til å ha det gøy og bli 
-kjent med andre studenter.
 
-OsloMet Gaming er en hobby forening for alle spillinteresserte ved OsloMet, de stiller med sitt massive utvalg av 
-spill og utstyr, og vi gleder oss til å arrangere denne kvelden sammen.
+Enten du er en erfaren gamer, brettspillentusiast eller bare nysgjerrig på å prøve noe nytt, her er det noe for alle. 
+Dette er også en perfekt anledning til å bli kjent med andre studenter!
+
+### Om OsloMet Gaming:
+OsloMet Gaming er en studentforening for alle som er glad i spill – enten det er videospill, brettspill, kortspill eller 
+rollespill som Dungeons & Dragons. De stiller med et massivt utvalg av spill og utstyr på arrangementene sine, og alt vil 
+være tilgjengelig denne kvelden.
+
+Er du ny til gaming? Ingen grunn til å bekymre seg, de hjelper deg gjerne med å finne noe du vil like!
 
 ### Praktisk info:
 📍 Studenthallen, P52\
 ⏰ 20. mars kl. 16:30\
-🍕 Vi setter frem pizza, snacks og masse drikke!\
 📝 Gratis påmelding! Ta med deg venner, eller kom alene – jo flere, jo bedre!
 
 ### Påmelding: 
