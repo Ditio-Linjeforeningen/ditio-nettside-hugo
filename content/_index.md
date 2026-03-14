@@ -28,9 +28,9 @@ Vi har flere komiteer som trenger medlemmer!\
 Les mere på [siden for komiteer]({{< ref "/om_oss/komiteer" >}}).
 
 
-Vil du lage bidra til denne nettsiden eller lage en en ny nettside til linjeforeningen?\
+Vil du lage bidra til denne nettsiden eller lage en ny nettside til linjeforeningen?\
 Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/ditio-nettside-hugo) 
-eller lag noe nytt, og flytt repoet linjeforeningens [github organiasjonen](https://github.com/Ditio-Linjeforeningen).\
+eller lag noe nytt, og flytt repoet linjeforeningens [github organisasjonen](https://github.com/Ditio-Linjeforeningen).\
 [Her er forslag til krav hvis du vil lage en ny nettside.](https://github.com/Ditio-Linjeforeningen/forslag-til-ny-nettside-krav)
 Lag gjerne PR hvis du har noe forslag til endringer der også.
 
