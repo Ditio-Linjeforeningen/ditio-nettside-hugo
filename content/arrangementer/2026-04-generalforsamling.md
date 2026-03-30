@@ -17,7 +17,7 @@ Hvor noen av dem må gjøres før 10. Juni.\
 Sakspapirer sendes på e-post og andre steder i løpet av neste uke.
 
 📍 PH170, Pilestredet 35\
-⏰ 20. mars kl. 16:30
+⏰ 14. April 16:30
 
 Det blir gratis mat og drikke!
 
