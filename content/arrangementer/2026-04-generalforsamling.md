@@ -12,11 +12,12 @@ draft: false
 
 ![Ditio sin logo](/img/ditio-logo-background.png)
 
-Møtet skal behandle vedtektsendringer og styresammensetning. 
-Sakspapirer sendes på e-post og deles andre steder i løpet av neste uke.
+Møtet skal behandle vedtektsendringer og styresammensetning.\
+Hvor noen av dem må gjøres før 10. Juni.\
+Sakspapirer sendes på e-post og andre steder i løpet av neste uke.
 
 📍 PH170, Pilestredet 35\
-⏰ 20. mars kl. 16:30\
+⏰ 20. mars kl. 16:30
 
 Det blir gratis mat og drikke!
 
