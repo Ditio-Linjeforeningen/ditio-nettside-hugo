@@ -35,6 +35,9 @@ Vi sees!
 [https://nettskjema.no/a/609536](https://nettskjema.no/a/609536)\
 (Så vi vet omtrent hvor mange vi blir!)
 
+## Sakspapirer:
+[Link til Google Drive](https://drive.google.com/drive/folders/1zYquYAtB5Cy02FzjEa7HasmWK6o6uYiM)
+
 Vi sees!
 <!--more-->
 
