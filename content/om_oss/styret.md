@@ -23,7 +23,7 @@ weight: 2
   - Fabian Mihle Hansen
   - 3\. år Dataingeniør
   - Epost: [it@ditio.org](mailto:it@ditio.org)
-- **Arrangementansvarlig:**
+- **Arrangementansvarlig/Bedriftskontakt:**
   - Jonas Hazeland Baugerud
   - 2\. år Dataingeniør
   - Epost: [event@ditio.org](mailto:event@ditio.org) eller [bedrift@ditio.org](mailto:bedrift@ditio.org)
@@ -31,17 +31,25 @@ weight: 2
   - Elim Misgun Ghessesew
   - 2\. år Dataingeniør
   - Epost: [pr@ditio.org](mailto:pr@ditio.org)
+- **Fagansvarlig:(Fra 14.04.26)**
+  - Peter Sætre
+  - 2\. år Anvendt datateknologi
+  - Epost: [fagansvarlig@ditio.org](mailto:fagansvarlig@ditio.org)
 - **Styremedlem:**
   - Emma Agnethe Rasch Eldby
   - 3\. år Anvendt datateknologi
 - **Styremedlem:**
   - Philip Lo
   - 1\. år Anvendt datateknologi
-- **Styremedlem:**
-  - Per Erik Gronvik
+- **Styremedlem: (Fram til 14.04.26)**
+  - Per Erik Grønvik
   - 3\. år Matematisk modellering og datavitenskap
 
 Kontakt alle: [styret@ditio.org](mailto:styret@ditio.org)
+
+***Note:***
+*Fra generalforsamling den [14.04.26] ble verv arrangementansvarlig endret til Bedriftskontakt.*
+*Styremedlem rollen til Per Erik Grønvik ble omgjort til Fagansvarlig og Peter Sætre ble valgt inn i rollen.*
 
 ![kart over styremedlemmer i foreningen](/img/styret/2025-2026-styret-map.jpg)
 ![ditio-temp-logo](/img/styret/2025-2026-styret.jpg)
