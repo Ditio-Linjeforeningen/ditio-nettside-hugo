@@ -8,16 +8,22 @@ draft: false
 weight: 4
 ---
 
-se alltid oppdatert versjon for vedtektene på vår [github](https://github.com/Ditio-Linjeforeningen/vedtekter), for forslag lag en pull request på githuben våres. send oss en epost hvis du ønsker å komme med anonymt forslag
+Se alltid oppdatert versjon for vedtektene på vår [github](https://github.com/Ditio-Linjeforeningen/vedtekter), for forslag lag en pull request på githuben våres. send oss en epost hvis du ønsker å komme med anonymt forslag
 
-Innhold sist revidert [25.09.25]
+Innhold sist revidert [14.04.26]
 
 ## §1 Foreningens navn
-Foreningens navn er Ditio - linjeforening, videre kalt Ditio.
+Foreningens navn er Ditio - linjeforening, videre kalt Ditio.\
+Foreningen har e-postadresse: kontakt@ditio.org\
+Foreningens adresse er: Pilestredet 35, 0166 Oslo
 
 ## §2 Formål
 Ditio sitt formål å være en sosial og faglig forening for foreningens medlemmer, som
 er studentene ved institutt IT ved fakultet for TKD på OsloMet og andre interessenter.
+
+Ditio’s purpose is to be a social and academic association for its members, primarily
+students at the Department of IT at the Faculty of Technology, Art and Design at OsloMet, as
+well as other interested parties.
 
 ## §3 Organisasjonsform
 Ditio er en frivillig studentorganisasjon og ble stiftet 06.06.2025.\
@@ -26,7 +32,7 @@ den er selveiende innebærer at ingen, verken medlemmer eller andre, har krav p�
 foreningens formue eller eiendeler, eller er ansvarlig for gjeld eller andre.
 
 ## §4 Medlemmer
-Minimum 80% av foreningens medlemmer må være nåværende studenter ved et SiOregistrert lærested, 
+Minimum 80% av foreningens medlemmer må være nåværende studenter ved et SiOregistrert lærested,
 og minst 50 % av medlemmene må være semesterregistrert ved
 OsloMet gjeldende semester. Utover dette er foreningen åpen for andre interesserte.
 
@@ -49,6 +55,9 @@ Generalforsamlingen er foreningens øverste organ.
 
 Generalforsamlingen skal holdes minimum en gang i året, helst i september, men
 innen utgangen av oktober i høstsemesteret.
+
+Generalforsamling skal alltid være på en virkedag. I en generell studieperiode og ikke i en
+konteuke. Dette baserer seg på OsloMet sine beskrivelser på akademisk studentkalender.
 
 Generalforsamling fatter vedtak ved simpelt flertall. Ingen medlemmer har mer enn
 en stemme og stemmegivning kan ikke skje ved fullmakt.
@@ -79,16 +88,29 @@ krever det eller styret finner det nødvendig.
 
 ## §7 Valg
 Det velges nytt styre på generalforsamling. Hvert styremedlem velges for én periode
-av gangen.
+av gangen. Et styremedlem kan kun ha ett verv i styret samtidig. Ved valg til nytt styreverv
+anses vedkommende for å ha fratrådt sitt tidligere styreverv.
+
+Som hovedregel kan kun tidligere eller sittende styremedlemmer stille til vervet som leder.
+Dersom ingen tidligere eller sittende styremedlemmer stiller, kan andre medlemmer som er
+til stede på generalforsamlingen stille til valg som leder.
 
 Alle valg ved generalforsamling foretas ved skriftlig votering, dersom det ikke
 fremsettes forslag om annet. Styremedlemmene velges med simpelt flertall, hvis det
 blir likt, skal en ny avstemning avholdes mellom de to kandidatene som fikk flest
 stemmer i første runde.
 
-Dersom et verv ikke blir fylt under generalforsamlingen kan styret be om fullmakt til
-å supplere seg selv. Om de ikke får dette kreves ny generalforsamling for å supplere
-vervene.
+Dersom et verv ikke fylles under generalforsamlingen, må generalforsamlingen velge en av
+disse to forslagene:
+1. Styret kan gi ansvaret for vervet til et eksisterende styremedlem.
+2. Styret kan supplere seg selv ved å velge et nytt konstituert styremedlem utenfor
+   styret.
+
+(konstituert: et midlertidig medlem som sitter til neste generalforsamling eller ekstraordinær
+generalforsamling)
+
+Hvis noen av styre trer av kan styre gjøre en av de to forslagene overfor frem til neste
+generalforsamling eller ekstraordinær generalforsamling .
 
 ## §8 Styret
 Ditio består av et styre på 8 personer. 80% av styret må være semesterregistrerte
@@ -111,16 +133,30 @@ Foreningens styre består av følgende roller:
 - IT- og driftsansvarlig
   - Prosjekt- og domeneansvarlig for nettside til foreningen. Lede
     utvikling og vedlikehold av nevnt side.
-- Arrangementansvarlig
-  - Har hovedansvar for å planlegge gjennomføring av arrangementer som
-    blir planlagt på styremøter. Dette innebærer å delegere oppgaver til
-    arrangement og føre arrangementsrapport etter hvert arrangement.
+- Bedriftskontakt
+  - Ansvarlig for å opprettholde kontakt med IT-bedrifter og andre kommersielle
+    aktører Ditio samarbeider med.
+  - Ansvarlig for å kontakte/finne nye aktuelle IT-bedrifter og relevante
+    kommersielle aktører som Ditio kan samarbeide med.
+  - Ansvarlig for gjennomføring av arrangementer med disse aktørene.
+  - Bedriftskontakt vil vanligvis arrangere bedriftspresentasjoner, workshoper,
+    ekskursjoner eller salg av tjenester til bedrifter(eks: standplass på OsloMet).
 - Mediaansvarlig
   - Ansvarlig for markedsføring av Ditio på sosiale medier slik som egen
     hjemmeside, Instagram, Facebook og SiO sine sider. Samt ansvar for
     fysisk markedsføring av arrangementer på skolen.
-- Styremedlem
-  - Bistå med diverse oppgaver de får ansvar for under styremøter.
+- Fagansvarlig
+  - Skal finne og foreslå foredrag til styret. Har hovedansvar for å planlegge og
+    gjennomføre faglige arrangementer som blir vedtatt på styremøter.
+  - Dette innebærer å delegere oppgaver til faglige arrangementer og før
+    arrangementsrapport etter hvert arrangement.
+  - En fagperson hentes inn fra universitet, frivillig organisasjon, tidligere
+    studenter, masterstudenter eller lignende og holder foredrag om faglig
+    relevant stoff.
+  - Faglige arrangementer skal ikke fremme en bedrift, og er ikke en
+    bedriftspresentasjon.
+  - Innebærer samarbeid med bedriftsansvarlig for å unngå rolleblanding og
+    overlapp.
 - Styremedlem
   - Bistå med diverse oppgaver de får ansvar for under styremøter.
 - Styremedlem
@@ -134,6 +170,9 @@ styret vedtas ved simpelt flertall. Ved stemmelikhet har leder dobbeltstemme.
 Styret har mulighet til å opprette egne komiteer med formål å løse oppgaver satt frem
 av styret. Hver komité skal ha en dedikert kontaktperson i styret, som igjen har
 ansvaret for å orientere resten av styret om aktivitetene til komiteen.
+
+Opprettelse av komiteer eller samarbeid med andre organisasjoner påvirker ikke foreningens
+juridiske og demokratiske selvstendighet.
 
 ### §9.1 Opprettelse av komiteer
 Styret velger selv hvilke komiteer de ønsker å opprette og hva hver enkelt komité sitt
@@ -195,10 +234,15 @@ behandlingen, men kan kreves åpnet dersom den saken gjelder krever dette. Krav 
 til å forklare seg overfor styret eller generalforsamlingen før beslutning fattes.
 
 ## §14 Oppløsning
-Foreningen kan oppløses ved at 2/3 av de stemmeberettigede medlemmene på
-generalforsamlingen stemmer for oppløsning. Sak om oppløsning må være meldt inn
+Foreningen kan oppløses ved at 3/4 av de stemmeberettigede medlemmene på
+generalforsamlingen stemmer for oppløsning, og deretter 3/4 flertall ved generalforsamling 5
+til 12 måneder etter den første avstemningen. Sak om oppløsning må være meldt inn
 til ordinære saksfrister i forkant av generalforsamlingen. Ved opphør vil foreningens
 midler og eiendeler bli gitt til en annen egnet studentforening med samme formål,
-som generalforsamlingen bestemmer.
+som generalforsamlingen bestemmer. Dette skal skje i tråd med norsk lov, forskrifter og gjeldende
+regelverk ved OsloMet og SiO.
 
 Ingen medlemmer har krav på foreningens midler eller andel av disse.
+
+Ved avvikling plikter foreningen å melde fra til relevante myndigheter og
+samarbeidspartnere, herunder Brønnøysundregistrene, SiO og OsloMet.
