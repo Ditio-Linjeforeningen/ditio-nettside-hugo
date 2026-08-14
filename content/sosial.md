@@ -21,4 +21,4 @@ draft: false
 [https://www.tiktok.com/@d.itio](https://www.tiktok.com/@d.itio)
 
 ## Discord
-[https://discord.gg/TMpbcyHYNR](https://discord.gg/TMpbcyHYNR)
+[https://discord.gg/D3Dcvmqxkn](https://discord.gg/D3Dcvmqxkn)
