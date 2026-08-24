@@ -17,6 +17,7 @@ Vi inviterer til generalforsamling! På agendaen står valg av nytt styre og ved
 Har du lyst til å bli med i styret? Møt opp og still til valg!\
 Sakspapirene med alle detaljer sendes ut i løpet av uke 37.
 
+<!--more-->
 Arrangementet er forbeholdt studenter ved IT-instituttet ved OsloMet (Anvendt datateknologi, Informasjonsteknologi, Dataingeniør, Matematisk modellering og datavitenskap, ACIT-masterprogrammene, forkurs og årsstudium IT). Det vil bli sjekket ved inngangen at deltakere tilhører foreningen.
 Merk: Det kan bli tatt bilder under arrangementet til bruk i Ditios promoteringsarbeid.
 
