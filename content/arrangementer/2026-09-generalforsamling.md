@@ -25,8 +25,7 @@ Merk: Det kan bli tatt bilder under arrangementet til bruk i Ditios promoterings
 📅 17. september kl. 16:30\
 📍 PH170, Pilestredet 35\
 🍕 Gratis mat og drikke serveres under møtet\
-📩 Sakspapirer sendes på e-post i løpet av uke 37 — sjekk innboksen og søppelpost!\
-📝 Påmelding: https://nettskjema.no/a/643528
+📩 Sakspapirer sendes på e-post i løpet av uke 37 — sjekk innboksen og søppelpost!
 
 ## Påmelding:
 [https://nettskjema.no/a/643528](https://nettskjema.no/a/643528)\
