@@ -73,3 +73,7 @@ Før første grenralforsmaling [25.09.2025]
 
 Andre: Fredrik, Emma, Martin, Per Erik, Stian, Kine, Jenny
 
+
+
+.........
+
