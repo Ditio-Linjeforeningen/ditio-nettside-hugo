@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<h1>Stillingsannonser</h1>
+
+<div class="posts-list">
+    {{ range sort .Data.Pages "Date" "asc" }}
+    <div class="post">
+
+        <div class="date">{{ .Date.Format "2 Jan 2006" }}</div>
+        <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+
+        <p>{{ .Summary }}</p>
+
+        <p><a href="{{ .Permalink }}">Les mere</a></p>
+    </div>
+    {{ end }}
+</div>
+
+{{ end }}

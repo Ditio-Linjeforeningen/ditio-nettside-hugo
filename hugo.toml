@@ -22,8 +22,14 @@ enableRobotsTXT = true
   url = "arrangementer/"
 
   [[params.navlinks]]
+  name = "stillingsannonser/"
+  url = "stillingsannonser/"
+
+  [[params.navlinks]]
   name = "om oss/"
   url = "om_oss/"
+
+
 
 #  Ikke i bruk akkurat nå
 #  [[params.navlinks]]
