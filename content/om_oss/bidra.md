@@ -23,7 +23,6 @@ Forslag til endringer av informasjon på denne nettsiden?\
 Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/d.it-io-nettside-hugo) eller send oss epost/kontakt et [styremedlem]({{< ref "/om_oss/styret" >}})!
 
 ### Selve nettsiden
-Denne siden er midlertidig og WIP intill noen har ordnet noe bedre.\
 Vil du lage bidra til denne nettsiden eller lage en en ny nettside til linjeforeningen?\
 Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/ditio-nettside-hugo) 
 eller lag noe nytt, og flytt repoet linjeforeningens [github organiasjonen](https://github.com/Ditio-Linjeforeningen).\

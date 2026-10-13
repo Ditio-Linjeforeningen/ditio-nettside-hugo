@@ -15,37 +15,54 @@ Vi har flere kommiteer som medlemmer kan være med i å bidra styret og andre me
 
 ## Nåværende Komiteer:
 
-### Event-komitè
-Bidrar til planlegging, rigging og gjennomføring av av Ditio`s arrangementer, alt fra faglige samlinger til sosiale aktiviteter. 
-Komiteen sørger for at arrangementene blir engasjerende og inkluderende.
+### Event-komité
+Bidrar til planlegging, rigging og gjennomføring av Ditios arrangementer, alt fra faglige samlinger til sosiale aktiviteter. 
+Komiteen sørger for at arrangementene blir engasjerende og inkluderende, slik at alle studenter på IT-programmene føler seg velkomne.
+Passer for deg som liker å organisere, har gode ideer til hva som kan være gøy, og vil være med på å skape et godt studiemiljø.
 
 Kontaktperson:\
-Jonas Hazeland Baugerud (Arrangementansvarlig)\
+Isak Tiset (Arrangementansvarlig)\
 [event@ditio.org](mailto:event@ditio.org)
 
-### IT-komitè
-Har ansvar for å utvikle, vedlikeholde og drifte foreningens tekniske løsninger. 
-Som nettsiden, interne systemer, og eventuelle digitale prosjekter.
-Komiteen funger som som Ditos eget utviklingsteam og sammarbeider tett med styret for å bygge verktøy for medlemmene.
+### Bedriftskomité
+Bidrar til planlegging, rigging og gjennomføring av aktiviteter knyttet til næringslivet, som bedriftspresentasjoner, workshops og andre arrangementer. 
+Komiteen jobber tett med styrets bedriftskontakt, og er med på å skape møteplasser mellom studenter og aktuelle arbeidsgivere. 
+Passer for deg som vil bli kjent med næringslivet, bygge nettverk og få erfaring med å arrangere profesjonelle arrangementer.
 
 Kontaktperson:\
-Fabian Mihle Hansen (IT- og driftsansvarlig)\
+Neslihan Øzdemir (Arrangementansvarlig)\
+[bedrift@ditio.org](mailto:bedrift@ditio.org)
+
+### Media-komité
+Har ansvar for å synliggjøre Ditio og promotere arrangementene våre. 
+Komiteen lager både digitalt og fysisk promomateriale, som innlegg til sosiale medier, plakater og bilder fra arrangementer. Passer for deg som liker design, foto, video eller skriving, og vil få erfaring med kommunikasjon og markedsføring. 
+Du trenger ingen forkunnskaper, bare lyst til å lære og bidra.
+
+Kontaktperson:\
+Hassan Naqvi (Media-ansvarlig)\
+[pr@ditio.org](mailto:pr@ditio.org)
+
+### IT-komité
+Har ansvar for å utvikle, vedlikeholde og drifte foreningens tekniske løsninger inkludert nettsiden, interne systemer, og eventuelle digitale prosjekter.
+Komiteen funger som som Ditios eget utviklingsteam og sammarbeider tett med styret for å bygge verktøy for medlemmene.
+
+Kontaktperson:\
+Elias Haneborg (IT- og driftsansvarlig)\
 [it@ditio.org](mailto:it@ditio.org)
 
-### Tillitsvalgt-komitè
-Samler alle tillitsvalgteved institutt for IT slik at de kan dele erfaringer, diskutere saker og 
-sammarbeide om hvordan rollene deres kan fungere best mulig. Komiteen skal være et forum for støtte, 
-erfaringsutveklsing og sammarbeid mellom nye og erfarne tillitsvalgte
+### Kontor-komité
+Har ansvar for å vedlikeholde og holde orden på Ditios kontor på P35-PH460. 
+Komiteen sørger for innkjøp av forbruksvarer, holder oversikt over utstyr, og tar initiativ til små forbedringer som gjør kontoret bedre for alle.
 
 Kontaktperson:\
-Emma Eldby (Styremdedlem)\
-[styremedlem1@ditio.org](mailto:styremedlem1@ditio.org)
+Philip Lo \
+[leder@oslomet.no](mailto:leder@oslomet.no)
 
-### ACIT-komitè
+### ACIT-komité
 Består av masterstudenter fra ACIT-programmet og fungerer som bindeledd mellom master studentene og Ditio.
 Komiteen representerer masterstudentenes interesser, gir tilbakemeldinger til styret og 
 bidrar til å tilrettelegge aktiviteter og tiltak som passer for mastermiljøet.
 
 Kontaktperson:\
-Jonas Hazeland Baugerud (Arrangementansvarlig)\
-[event@ditio.org](mailto:event@ditio.org)
+Mubin Mohammed Ahmed\
+[muahm6582@oslomet.no](mailto:muahm6582@oslomet.no)
