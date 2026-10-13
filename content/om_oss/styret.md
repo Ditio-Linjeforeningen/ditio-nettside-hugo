@@ -12,38 +12,37 @@ weight: 2
 
 ## Nåværende styret består av
 - **Leder:**
-  - Stian Haugen
-  -  3\. år Dataingeniør
+  - Philip Lo
+  -  2\. år Anvendt datateknologi
   - Epost: [leder@ditio.org](mailto:leder@ditio.org)
-- **Nestleder og økonomiansvarlig:**
+- **Nestleder:**
   - Umeshgaar Bala
   - 3\. år Matematisk modellering og datavitenskap
-  - Epost: [nestleder@ditio.org](mailto:nestleder@ditio.org) eller [okonomi@ditio.org](mailto:okonomi@ditio.org)
+  - Epost: [nestleder@ditio.org](mailto:nestleder@ditio.org)
+- **Bedriftsansvarlig:**
+  - Wahib Hussain
+  - 2\. år Master i ACIT: Datavitenskap 
+  - Epost: [okonomi@ditio.org](mailto:okonomi@ditio.org)
 - **IT- og driftsansvarlig:**
-  - Fabian Mihle Hansen
-  - 3\. år Dataingeniør
+  - Elias Haneborg
+  - 2\. år Informasjonsteknologi
   - Epost: [it@ditio.org](mailto:it@ditio.org)
-- **Arrangementansvarlig/Bedriftskontakt:**
-  - Jonas Hazeland Baugerud
-  - 2\. år Dataingeniør
+- **Bedriftskontakt:**
+  - Neslihan Øzdemir
+  - 1\. år Master i ACIT: Nettskybaserte tjenester og operasjoner 
+  - Epost: [bedrift@ditio.org](mailto:bedrift@ditio.org)
+- **Arrangementansvarlig:**
+  - Isak Tiset
+  - 1\. år Anvendt datateknologi
   - Epost: [event@ditio.org](mailto:event@ditio.org) eller [bedrift@ditio.org](mailto:bedrift@ditio.org)
 - **Mediaansvarlig:**
-  - Elim Misgun Ghessesew
+  - Hassan Naqvi
   - 2\. år Dataingeniør
   - Epost: [pr@ditio.org](mailto:pr@ditio.org)
-- **Fagansvarlig:(Fra 14.04.26)**
-  - Peter Sætre
-  - 2\. år Anvendt datateknologi
-  - Epost: [fagansvarlig@ditio.org](mailto:fagansvarlig@ditio.org)
-- **Styremedlem:**
-  - Emma Agnethe Rasch Eldby
-  - 3\. år Anvendt datateknologi
-- **Styremedlem:**
-  - Philip Lo
-  - 1\. år Anvendt datateknologi
-- **Styremedlem: (Fram til 14.04.26)**
-  - Per Erik Grønvik
-  - 3\. år Matematisk modellering og datavitenskap
+- **Styremedlem og representant til Fadderstyret:**
+  - Oleksii Reznichenko
+  - 2\. år Informasjonsteknologi
+  - Epost: [styremedlem@ditio.org](mailto:styremedlem@ditio.org)
 
 Kontakt alle: [styret@ditio.org](mailto:styret@ditio.org)
 
@@ -56,10 +55,38 @@ Kontakt alle: [styret@ditio.org](mailto:styret@ditio.org)
 
 Sist oppdatert: [03.10.2025]
 
-# Tidliere styrer
+# Tidligere styrer
 
 ## 2025-2026
 Valgt inn [25.09.2025]
+
+- **Leder:**
+  - Stian Haugen
+  -  3\. år Dataingeniør
+- **Nestleder og økonomiansvarlig:**
+  - Umeshgaar Bala
+  - 3\. år Matematisk modellering og datavitenskap
+- **IT- og driftsansvarlig:**
+  - Fabian Mihle Hansen
+  - 3\. år Dataingeniør
+- **Arrangementansvarlig/Bedriftskontakt:**
+  - Jonas Hazeland Baugerud
+  - 2\. år Dataingeniør
+- **Mediaansvarlig:**
+  - Elim Misgun Ghessesew
+  - 2\. år Dataingeniør
+- **Fagansvarlig:(Fra 14.04.26)**
+  - Peter Sætre
+  - 2\. år Anvendt datateknologi
+- **Styremedlem:**
+  - Emma Agnethe Rasch Eldby
+  - 3\. år Anvendt datateknologi
+- **Styremedlem:**
+  - Philip Lo
+  - 1\. år Anvendt datateknologi
+- **Styremedlem: (Fram til 14.04.26)**
+  - Per Erik Grønvik
+  - 3\. år Matematisk modellering og datavitenskap
 
 ## Midlertidig oppstartsgruppe
 Før første grenralforsmaling [25.09.2025]
