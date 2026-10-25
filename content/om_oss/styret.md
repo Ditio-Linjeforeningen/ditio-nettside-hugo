@@ -6,7 +6,7 @@ date: 2025-08-30
 draft: false
 weight: 2
 ---
- Liste over det nåværende styret til linjeforeningen.
+ Liste over det styret til linjeforeningen.
 
 <!--more-->
 
@@ -34,7 +34,7 @@ weight: 2
 - **Arrangementansvarlig:**
   - Isak Tiset
   - 1\. år Anvendt datateknologi
-  - Epost: [event@ditio.org](mailto:event@ditio.org) eller [bedrift@ditio.org](mailto:bedrift@ditio.org)
+  - Epost: [event@ditio.org](mailto:event@ditio.org)
 - **Mediaansvarlig:**
   - Hassan Naqvi
   - 2\. år Dataingeniør
@@ -46,14 +46,7 @@ weight: 2
 
 Kontakt alle: [styret@ditio.org](mailto:styret@ditio.org)
 
-***Note:***
-*Fra generalforsamling den [14.04.26] ble verv arrangementansvarlig endret til Bedriftskontakt.*
-*Styremedlem rollen til Per Erik Grønvik ble omgjort til Fagansvarlig og Peter Sætre ble valgt inn i rollen.*
-
-![kart over styremedlemmer i foreningen](/img/styret/2025-2026-styret-map.jpg)
-![ditio-temp-logo](/img/styret/2025-2026-styret.jpg)
-
-Sist oppdatert: [03.10.2025]
+Sist oppdatert: [25.10.2026]
 
 # Tidligere styrer
 
@@ -87,6 +80,9 @@ Valgt inn [25.09.2025]
 - **Styremedlem: (Fram til 14.04.26)**
   - Per Erik Grønvik
   - 3\. år Matematisk modellering og datavitenskap
+
+![kart over styremedlemmer i foreningen](/img/styret/2025-2026-styret-map.jpg)
+![ditio-styret-2025-2026](/img/styret/2025-2026-styret.jpg)
 
 ## Midlertidig oppstartsgruppe
 Før første grenralforsmaling [25.09.2025]
