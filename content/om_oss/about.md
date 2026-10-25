@@ -10,21 +10,21 @@ weight: 1
 
 ## Hva er Ditio
 
-Ditio er linjeforeningen for studenter ved  linjene som hører til under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) ved OsloMet.\
+Ditio er linjeforeningen for studenter ved  linjene som hører til under [institutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) ved OsloMet.\
 Ditio sitt formål å være en sosial og faglig forening for foreningens medlemmer, som er studentene ved institutt IT ved fakultet for TKD på OsloMet og andre interessenter.
 
-Vi jobber blant anent med å organisere sosiale og faglige events for våre medlemmer å forbedre studentmiljøet for våre medlemmer.
+Vi jobber blant annet med å organisere sosiale og faglige arrangementer for våre medlemmer å forbedre studentmiljøet for våre medlemmer.
 
 Vår først generalforsamlig var 25.09.2025.\
-Mere interesert i vår historie? [Les mere her]({{< ref "/om_oss/historie" >}})
+Mere interessert i vår historie? [Les mere her]({{< ref "/om_oss/historie" >}})
 
 ## Hvem kan være med i foreningen
 
-Alle som går linjene under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) på OsloMet og andre interessenter.
+Alle som går linjene under [institutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) på OsloMet og andre interessenter.
 
 ## Hvordan blir man med?
 
-Alle som går linjene under [insitutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) på OsloMet er automatisk medlem.
+Alle som går linjene under [institutt for informasjonsteknologi](https://www.oslomet.no/om/tkd/it) på OsloMet er automatisk medlem.
 
 ## Lyst til å bidra?
 [Les mere her]({{< ref "/om_oss/bidra" >}})
