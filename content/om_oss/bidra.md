@@ -26,8 +26,7 @@ Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/d
 Vil du lage bidra til denne nettsiden eller lage en en ny nettside til linjeforeningen?\
 Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/ditio-nettside-hugo) 
 eller lag noe nytt, og flytt repoet linjeforeningens [github organiasjonen](https://github.com/Ditio-Linjeforeningen).\
-[Her er forslag til krav hvis du vil lage en ny nettside.](https://github.com/Ditio-Linjeforeningen/forslag-til-ny-nettside-krav)
-Lag gjerne PR hvis du har noe forslag til endringer der også.
+Eller send forslag til IT ansvarlig eller IT komiteen!
 
 # Annet
 

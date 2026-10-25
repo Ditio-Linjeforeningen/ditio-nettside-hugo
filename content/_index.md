@@ -8,12 +8,11 @@ draft: false
 
 # Ditio Linjeforening 
 
-Linjeforeningen for alle linjene som hører til under [insitutt for informasjonsteknologi på OsloMet](https://www.oslomet.no/om/tkd/it).\
+Linjeforeningen for alle linjene som hører til under [institutt for informasjonsteknologi på OsloMet](https://www.oslomet.no/om/tkd/it).\
 Ditio sitt formål å være en sosial og faglig forening for foreningen medlemmer og andre interessenter.
 
-Vi jobber blant anent med å organisere sosiale og faglige events for våre medlemmer å forbedre studentmiljøet for våre medlemmer.
+Vi jobber blant annet med å organisere sosiale og faglige arrangementer for våre medlemmer å forbedre studentmiljøet for våre medlemmer.
 
-Vi har fått Logo!
 ![ditio-temp-logo](img/logo-rectangle-wide.png)
 
 
@@ -31,8 +30,7 @@ Les mere på [siden for komiteer]({{< ref "/om_oss/komiteer" >}}).
 Vil du lage bidra til denne nettsiden eller lage en ny nettside til linjeforeningen?\
 Gjør PR på [repoet til denne siden](https://github.com/Ditio-Linjeforeningen/ditio-nettside-hugo) 
 eller lag noe nytt, og flytt repoet linjeforeningens [github organisasjonen](https://github.com/Ditio-Linjeforeningen).\
-[Her er forslag til krav hvis du vil lage en ny nettside.](https://github.com/Ditio-Linjeforeningen/forslag-til-ny-nettside-krav)
-Lag gjerne PR hvis du har noe forslag til endringer der også.
+Eller send forslag til IT ansvarlig eller IT komiteen!
 
 # Kontakt oss
 
