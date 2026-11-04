@@ -23,13 +23,13 @@ Middag og brus er inkludert
 
 <!--more-->
 
-**Praktisk info:**
+### Praktisk info:
 📅 Torsdag 5. november\
 ⏰ 17.00 - 21.00\
 📍 Datatorget\
 🎟️ Helt gratis!
 
-**Påmelding:**
+### Påmelding:
 [https://nettskjema.no/a/666936](https://nettskjema.no/a/666936)
 
 Ta gjerne med deg en egen Switch 1 kontroller
